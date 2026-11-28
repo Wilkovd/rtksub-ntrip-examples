@@ -4,6 +4,8 @@ Settings and small examples for connecting GNSS receivers, robots, drones and ma
 
 RTKsub delivers real-time RTK corrections from the GEODNET network to any receiver or app with an NTRIP client. Under good conditions RTK typically reaches 1 to 2 cm.
 
+Full documentation: [RTKsub NTRIP API documentation](https://rtksub.com/developers/).
+
 ## Contents
 
 - [Connection settings](#connection-settings)
